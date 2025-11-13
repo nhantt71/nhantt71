@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm To Trong Nhan  
+**Backend Software Engineer | Java & Python Developer**
 
-<!--
-**nhantt71/nhantt71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend-focused software engineer with strong experience in **Java (Spring Framework)** and **Python (Django Framework)**.  
+I also have solid knowledge of **JavaScript/TypeScript, React, Next.js, React Native, and TailwindCSS**, but my passion and main strength remain in backend and system design.
 
-Here are some ideas to get you started:
+I love building reliable systems, writing clean code, and constantly learning new technologies.  
+Currently, I’m **looking for new opportunities** as a Backend Engineer or Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### **Backend**
+- **Java (Spring Boot, Spring Security, JPA/Hibernate)**
+- **Python (Django, Django REST Framework)**
+- RESTful API • Microservices • SQL • PostgreSQL • Docker
+
+### **Frontend**
+- JavaScript / TypeScript  
+- React • React Native  
+- Next.js • TailwindCSS
+
+### **Other Skills**
+- Git & GitHub  
+- CI/CD basics  
+- Software Architecture fundamentals
+
+---
+
+## 📌 Featured Projects
+
+Here are six pinned projects from my GitHub — showcasing the work I'm most proud of:
+
+👉 _Pinned automatically from my GitHub profile — visitors will see them below._
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** [linkedin.com/in/nhan-to-41873b298](https://www.linkedin.com/in/nhan-to-41873b298/)
+- **GitHub:** [github.com/nhantt71](https://github.com/nhantt71)
+
+I’m always open to discussing new opportunities, backend engineering roles, or collaborating on interesting projects.
+
+---
+
+## ⚡ About Me
+
+- 🎯 Focus: Backend Development & Software Engineering  
+- 📍 Based in Vietnam  
+- 💼 Looking for work (Backend / Fullstack / Software Engineer roles)  
+- 📚 Always learning & improving
+
+---
+
+Thanks for visiting my profile!
