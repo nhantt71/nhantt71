@@ -15,6 +15,7 @@ Currently, I’m **looking for new opportunities** as a Backend Engineer or Soft
 - **Java (Spring Boot, Spring Security, JPA/Hibernate)**
 - **Python (Django, Django REST Framework)**
 - RESTful API • Microservices • SQL • PostgreSQL • Docker
+- **Firebase:** Realtime Database, Authentication, Hosting  
 
 ### **Frontend**
 - JavaScript / TypeScript  
@@ -25,6 +26,9 @@ Currently, I’m **looking for new opportunities** as a Backend Engineer or Soft
 - Git & GitHub  
 - CI/CD basics  
 - Software Architecture fundamentals
+
+### **Cloud / DevOps**
+- **AWS:** Lambda, API Gateway, DynamoDB, S3, CloudFront, CodePipeline, CodeBuild  
 
 ---
 
