@@ -1,5 +1,5 @@
 # 👋 Hi, I'm To Trong Nhan  
-**Backend Software Engineer | Java & Python Developer**
+**Backend Software Engineer**
 
 I’m a backend-focused software engineer with strong experience in **Java (Spring Framework)** and **Python (Django Framework)**.  
 I also have solid knowledge of **JavaScript/TypeScript, React, Next.js, React Native, and TailwindCSS**, but my passion and main strength remain in backend and system design.
