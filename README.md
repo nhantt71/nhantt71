@@ -14,7 +14,7 @@ Currently, I’m **looking for new opportunities** as a Backend Engineer or Soft
 ### **Backend**
 - **Java (Spring Boot, Spring Security, JPA/Hibernate)**
 - **Python (Django, Django REST Framework)**
-- RESTful API • Microservices • SQL • PostgreSQL • Docker
+- RESTful API • Microservices • SQL • PostgreSQL • MySQL • Docker
 - **Firebase:** Realtime Database, Authentication, Hosting  
 
 ### **Frontend**
