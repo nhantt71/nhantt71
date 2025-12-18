@@ -42,7 +42,7 @@ Here are six pinned projects from my GitHub — showcasing the work I'm most pro
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [linkedin.com/in/nhan-to-41873b298](https://www.linkedin.com/in/nhan-to-41873b298/)
+- **LinkedIn:** [linkedin.com/in/nhan-to-41873b298](https://www.linkedin.com/in/nhantt71/)
 - **GitHub:** [github.com/nhantt71](https://github.com/nhantt71)
 
 I’m always open to discussing new opportunities, backend engineering roles, or collaborating on interesting projects.
